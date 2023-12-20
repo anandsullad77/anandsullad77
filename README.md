@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst and Science
 - 🌱 I’m currently learning Data visualisation in Power BI
 - 💞️ I’m looking to collaborate on data analyst 
-- 📫 You can reach me at anandsullad@gmail.com
+- 📫 You can reach me at anandsullad777@gmail.com
 
 <!---
 anandsullad77/anandsullad77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
