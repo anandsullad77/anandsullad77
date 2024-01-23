@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anand Sullad
 - 👀 I’m interested in Data Analyst and Science
-- 🌱 I’m currently learning Data visualisation in Power BI
+- 🌱 I’m currently learning Data visualisation
 - 💞️ I’m looking to collaborate on data analyst 
 - 📫 You can reach me at anandsullad777@gmail.com
 
