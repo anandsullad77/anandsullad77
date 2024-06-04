@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Anand Sullad
-- 👀 I’m interested in Data Analyst and Science
-- 🌱 I’m currently learning Data visualisation
-- 💞️ I’m looking to collaborate on data analyst 
-- 📫 You can reach me at anandsullad777@gmail.com
-
-<!---
-anandsullad77/anandsullad77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Over three years of professional experience in Business Intelligence and Data Analytics, specializing in report creation using BI tools, with expertise in data extraction via SQL and preprocessing it in Excel. Experienced in leading projects to transition data from legacy ERP systems to the new cloud based ERPNext. Demonstrates proficiency in Advanced Excel, SQL, Power BI, and Python.
