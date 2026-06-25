@@ -119,19 +119,6 @@ Built an Excel-based report for tracking Overall Equipment Effectiveness and pro
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandsullad77&show_icons=true&hide_border=true&theme=default)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandsullad77&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
 
 ## Current Focus
 
